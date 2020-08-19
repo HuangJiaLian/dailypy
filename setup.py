@@ -9,7 +9,7 @@ classifiers = [
  
 setup(
   name='dailypy',
-  version='0.0.2',
+  version='0.0.3',
   description='A useful library used everyday',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  

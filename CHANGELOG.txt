@@ -8,3 +8,6 @@ Change Log
 ------------------
 - Update README for better viwing
 
+0.0.3 (20/08/2020)
+------------------
+- Change src to dailypy
